@@ -1,0 +1,3 @@
+A Matlab implementation of the Shannon-Fano compression algorithm.
+
+Start the script called compr for compression, and the one called decompr for decompression.
